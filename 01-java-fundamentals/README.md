@@ -89,5 +89,5 @@ if ("Java".equals(language)) {
 - Escribir código fuera del método `main`.
 - Usar `==` para comparar textos.
 - No compilar desde la carpeta raíz del paquete.
-- Olvidar importar Scanner.
-- Mezclar nextInt() con nextLine() sin limpiar el salto de línea.
+- Olvidar importar `Scanner`.
+- Mezclar `nextInt()` con `nextLine()` sin limpiar el salto de línea.

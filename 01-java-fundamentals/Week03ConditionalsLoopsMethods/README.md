@@ -31,12 +31,10 @@ La sobrecarga de métodos permite crear varios métodos con el mismo nombre, sie
 ## Ejercicios realizados
 
 * `MultiplicationTable.java`
-* ToDo:
-  * `NumberGuessingGame.java`
-  * `FactorialCalculator.java`
-  * `PrimeNumberChecker.java`
-  * `PasswordValidator.java`
-  * `MenuDrivenApp.java`
+* `FactorialCalculator.java`
+* `PrimeNumberChecker.java`
+* `PasswordValidator.java`
+* `MenuDrivenApp.java`
 
 ## Mini proyecto
 
